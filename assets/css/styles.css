@@ -247,6 +247,7 @@ h3 { font-size: 28px; margin: 0 0 8px; }
 .category-card p, .product-card p, .pillar p, .value p { color: var(--muted); margin: 8px 0 0; }
 .category-card:hover, .product-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
 .product-card { overflow: hidden; display: flex; flex-direction: column; text-decoration: none; }
+.product-card.is-hidden { display: none !important; }
 .product-card img { height: 210px; width: 100%; object-fit: cover; background: #e7eee8; }
 .product-card h3 { font-size: 24px; margin: 0; }
 .chips { display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px; }

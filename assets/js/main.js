@@ -23,7 +23,7 @@ if (filterBar) {
       const categories = card.dataset.category.split(" ");
       const name = card.dataset.name.toLowerCase();
       const show = (current === "todos" || categories.includes(current)) && (!query || name.includes(query));
-      card.hidden = !show;
+      card.classList.toggle("is-hidden", !show);
       if (show) visible += 1;
     });
     if (empty) empty.hidden = visible !== 0;
