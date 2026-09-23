@@ -1,0 +1,566 @@
+{
+  "company": {
+    "name": "Naturalle",
+    "cnpj": "00.707.203/0001-12",
+    "email": "vendas@naturalle.com.br",
+    "phoneDisplay": "(19) 99884-9460",
+    "phoneTel": "+5519998849460",
+    "whatsapp": "5519998849460",
+    "linkedin": "https://www.linkedin.com/company/naturalleprodutosalimenticios/",
+    "url": "https://naturalle.com.br"
+  },
+  "categories": [
+    {
+      "id": "humana",
+      "slug": "nutricao-humana",
+      "title": "Nutrição Humana",
+      "image": "assets/images/categorias/nutricao-humana.webp",
+      "summary": "Ingredientes vegetais para panificação, biscoitos, snacks, alimentos plant-based, misturas e outras aplicações da indústria de alimentos.",
+      "products": [
+        "farinha-de-soja-integral-micronizada",
+        "farinha-de-soja-micronizada-de-baixa-fibra",
+        "farinha-de-milho",
+        "proteina-de-soja-micronizada",
+        "farinha-de-arroz",
+        "farinha-de-arroz-pre-gelatinizada",
+        "farinha-de-arroz-crispy",
+        "proteina-texturizada-de-soja",
+        "produto-customizado"
+      ]
+    },
+    {
+      "id": "animal",
+      "slug": "nutricao-animal",
+      "title": "Nutrição Animal",
+      "image": "assets/images/categorias/nutricao-animal.webp",
+      "summary": "Ingredientes para formulações de pets, pré-iniciais de suínos, rações e processos que exigem proteína, energia e padronização.",
+      "products": [
+        "farinha-de-soja-integral-micronizada",
+        "farinha-de-soja-micronizada-de-baixa-fibra",
+        "farinha-de-milho",
+        "proteina-de-soja-micronizada",
+        "farelo-de-soja-integral",
+        "soja-grao-desativada",
+        "farinha-de-arroz",
+        "farinha-de-arroz-pre-gelatinizada"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "slug": "farinha-de-soja-integral-micronizada",
+      "title": "Farinha de Soja Integral Micronizada",
+      "image": "assets/images/produtos/farinha-de-soja-integral-micronizada.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "A Farinha de Soja Integral Micronizada Naturalle é produzida a partir de grãos de soja cuidadosamente selecionados e processados com tecnologia que garante alta padronização, qualidade e segurança. Possui granulometria fina e uniforme, excelente estabilidade e preserva as características naturais da soja, proporcionando alto desempenho em diferentes aplicações industriais. É uma solução versátil para empresas que buscam qualidade, regularidade de fornecimento e excelente rendimento."
+      ],
+      "composition": [
+        "Grãos de Soja Inativados pelo calor e Micronizados"
+      ],
+      "application": "Soja Inativada em Pó",
+      "packing": "Saco de polietileno, apresentando peso líquido de 20 Kg",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Indicações humanas",
+          "items": [
+            "Panificação",
+            "Biscoitos",
+            "Massas",
+            "Alimentos Plant-based",
+            "Misturas Alimentícias"
+          ]
+        },
+        {
+          "title": "Indicações animais",
+          "items": [
+            "Formulações para Pets",
+            "Formulações Pré-Iniciais para Suínos",
+            "Formulações que precisam aumentar a Densidade Calórica",
+            "Substituto para óleos vegetais"
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "farinha-de-soja-micronizada-de-baixa-fibra",
+      "title": "Farinha de Soja Micronizada de Baixa Fibra",
+      "image": "assets/images/produtos/farinha-de-soja-micronizada-de-baixa-fibra.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "A Farinha de Soja Micronizada de Baixa Fibra Naturalle é produzida a partir do grão de soja sem casca, por meio",
+        "de um processo que resulta em um ingrediente de granulometria fina, coloração creme e sabor suavemente tostado e adocicado.",
+        "Com reduzido teor de fibras, elevado teor de proteína e óleo natural da soja, oferece excelente desempenho em formulações."
+      ],
+      "composition": [
+        "A Farinha Soja Integral Micronizada é um produto 100% natural, não contém colesterol, sacarose, caseína e glúten.",
+        "É um produto altamente nutritivo de alto teor energético, qualidade uniforme e constante ao longo do tempo."
+      ],
+      "application": "Extrato de Soja",
+      "packing": "Saco de polietileno, apresentando peso líquido de 20 Kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes.\nTransportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Indicações humanas",
+          "items": [
+            "Panificação",
+            "Biscoitos",
+            "Snacks",
+            "Alimentos Plant-based",
+            "Misturas Alimentícias"
+          ]
+        },
+        {
+          "title": "Indicações animais",
+          "items": [
+            "Formulações para Pets",
+            "Formulações Pré-Iniciais para Suínos",
+            "Formulações que precisam aumentar a Densidade Calórica",
+            "Substituto para óleos vegetais"
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "proteina-de-soja-micronizada",
+      "title": "Proteína de Soja Micronizada",
+      "image": "assets/images/produtos/proteina-de-soja-micronizada.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "Produzida a partir da soja desengordurada, submetida a um processo de micronização que proporciona granulometria fina, excelente homogeneidade e elevado padrão de qualidade.",
+        "Com alto teor de proteína, apresenta cor creme, sabor e odor naturais da soja. A combinação entre qualidade, padronização e desempenho torna a Proteína de Soja Micronizada Naturalle uma solução versátil para aplicações que exigem elevado padrão tecnológico e nutricional, agregando valor às formulações e contribuindo para a qualidade do produto final."
+      ],
+      "composition": [
+        "Produzida a partir da soja desengordurada, submetida a um processo de micronização que proporciona granulometria fina, excelente homogeneidade e elevado padrão de qualidade."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Aplicações humanas",
+          "items": [
+            "Produtos Cárneos (Embutidos e Empanados)",
+            "Plant Based",
+            "Panificação",
+            "Biscoitos e Cookies Proteicos",
+            "Sopas",
+            "caldos e misturas desidratadas",
+            "Barra de proteína e cereais"
+          ]
+        },
+        {
+          "title": "Aplicações animais",
+          "items": [
+            "Formulações para Pets",
+            "Formulações Pré-Iniciais para Suínos",
+            "Formulações que precisam aumentar a digestibilidade da Proteína",
+            "Fonte rica de Proteína"
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "proteina-texturizada-de-soja",
+      "title": "Proteína Texturizada de Soja",
+      "image": "assets/images/produtos/proteina-texturizada-de-soja.webp",
+      "categories": [
+        "humana"
+      ],
+      "description": [
+        "Produto obtido a partir da soja e desenvolvido para aplicações alimentícias que necessitam de boa textura, versatilidade e facilidade de incorporação. Pode ser utilizada em diferentes tipos de formulações, contribuindo para a estrutura e composição do produto final. É uma alternativa versátil para indústrias que buscam regularidade, praticidade e eficiência em seus processos."
+      ],
+      "composition": [
+        "Derivados proteicos de soja submetidos ao processo de texturização."
+      ],
+      "application": "PTS - Proteína Texturizada de Soja",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Aplicações humanas",
+          "items": [
+            "Produtos cárneos e embutidos",
+            "hambúrgueres",
+            "almôndegas",
+            "recheios",
+            "produtos Plant Based",
+            "refeições prontas",
+            "sopas",
+            "molhos",
+            "misturas desidratadas e formulações que necessitam de textura e aporte proteico."
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "farinha-de-milho",
+      "title": "Farinha de Milho",
+      "image": "assets/images/produtos/farinha-de-milho.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "Produzida a partir do milho integral moído, resultando em um ingrediente de granulometria",
+        "homogênea, coloração amarela e sabor característico do milho.",
+        "Naturalmente rica em carboidratos, é uma excelente fonte de energia para formulações alimentícias. Também contribui",
+        "com fibras, proteínas e lipídios naturalmente presentes no grão, agregando valor nutricional às aplicações."
+      ],
+      "composition": [
+        "Produto obtido a partir do milho integral moído, com granulometria uniforme e características naturais de cor, sabor e aroma."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Aplicações humanas",
+          "items": [
+            "Panificação",
+            "Biscoitos e cookies",
+            "Massas alimentícias",
+            "Snacks",
+            "Empanados",
+            "Pré-misturas industriais",
+            "Produtos alimentícios diversos."
+          ]
+        },
+        {
+          "title": "Aplicações animais",
+          "items": [
+            "Formulações para Pets",
+            "Formulações Pré-Iniciais para Suínos",
+            "Formulações que precisam aumentar a digestibilidade dos carboidratos",
+            "Fonte de Amido para o processo de Extrusão"
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "farinha-de-arroz",
+      "title": "Farinha de Arroz",
+      "image": "assets/images/produtos/farinha-de-arroz.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "Produto processado a partir da Quirela de Arroz Micronizada. Trata-se de um pó homogêneo, extremamente fino de cor branca, sabor e odor característicos do arroz, não transferindo sabor aos alimentos. Excelente fonte de Carboidratos, Fibras, Proteína e Gorduras, alto valor nutritivo aos alimentos e formulações. É também composta por vitaminas do complexo B, manganês, fósforo e ferro."
+      ],
+      "composition": [
+        "Produto processado a partir da quirela de arroz micronizada. Pó homogêneo, extremamente fino, de cor branca, com sabor e odor característicos do arroz."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Indicações humanas",
+          "items": [
+            "Empanados (Pré cobertura)",
+            "Panificação Sem Glúten",
+            "Bolos e Misturas para bolos",
+            "Alimentos Funcionais",
+            "Sopas",
+            "Caldos e Molhos",
+            "Pré-misturas para alimentos."
+          ]
+        },
+        {
+          "title": "Indicações animais",
+          "items": [
+            "Formulações Úmidas para Pets",
+            "Formulações Pré-Iniciais para Suínos Formulações que precisam aumentar a digestibilidade dos carboidratos",
+            "Fonte de Amido para o processo de Extrusão"
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "farinha-de-arroz-pre-gelatinizada",
+      "title": "Farinha de Arroz Pré-Gelatinizada",
+      "image": "assets/images/produtos/farinha-de-arroz-pre-gelatinizada.webp",
+      "categories": [
+        "humana",
+        "animal"
+      ],
+      "description": [
+        "Produto processado a partir da Quirela de Arroz Pré-Cozida e Micronizada. Trata-se de um pó homogêneo, extremamente fino de cor bege, sabor e odor característicos do arroz, não transferindo sabor aos alimentos. Excelente fonte de Carboidratos, Fibras, Proteína e Gorduras, conferindo alto valor nutritivo aos alimentos e formulações. Possui excelente índice de gelatinização."
+      ],
+      "composition": [
+        "A Farinha de Arroz Pré-Gelatinizada é um produto 100% natural e não contém Glúten.",
+        "É um ingrediente de fácil digestibilidade e excelente fonte de amido."
+      ],
+      "application": "Arroz Crispy",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [],
+      "guarantees": {
+        "title": "Níveis de garantia",
+        "rows": [
+          {
+            "parameter": "Umidade %",
+            "condition": "",
+            "value": "9,5"
+          },
+          {
+            "parameter": "Proteína Bruta %",
+            "condition": "",
+            "value": "7,5"
+          },
+          {
+            "parameter": "Extrato Etéreo %",
+            "condition": "",
+            "value": "1,3"
+          },
+          {
+            "parameter": "Fibra Bruta %",
+            "condition": "",
+            "value": "3,2"
+          },
+          {
+            "parameter": "Matéria Mineral",
+            "condition": "",
+            "value": "0,4"
+          },
+          {
+            "parameter": "Índice de Gelatinização %",
+            "condition": "",
+            "value": "90"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "farinha-de-arroz-crispy",
+      "title": "Farinha de Arroz Crispy",
+      "image": "assets/images/produtos/farinha-de-arroz-crispy.webp",
+      "categories": [
+        "humana"
+      ],
+      "description": [
+        "Produto à base de arroz, desenvolvido para aplicações alimentícias que buscam textura, leveza e versatilidade. Sua composição permite utilização em diferentes formulações, contribuindo para características sensoriais e funcionais conforme a necessidade de cada aplicação. É indicada para indústrias que buscam padronização, praticidade e qualidade em seus processos produtivos."
+      ],
+      "composition": [
+        "Derivados de arroz processados, com granulometria e características definidas conforme a aplicação."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Aplicações humanas",
+          "items": [
+            "Panificação",
+            "biscoitos e cookies",
+            "cereais",
+            "snacks",
+            "barras de cereais e proteínas",
+            "empanados",
+            "produtos extrusados",
+            "confeitaria e formulações que buscam textura",
+            "crocância e leveza."
+          ]
+        }
+      ],
+      "guarantees": null
+    },
+    {
+      "slug": "farelo-de-soja-integral",
+      "title": "Farelo de Soja Integral",
+      "image": "assets/images/produtos/farelo-de-soja-integral.webp",
+      "categories": [
+        "animal"
+      ],
+      "description": [
+        "Produzido pelo nosso processo exclusivo de pré-esmagamento e cozimento úmido com vapor direto, com sensíveis controles de temperatura visando a maior desativação dos fatores anti-nutricionais, mas preservando ao máximo os aminoácidos conferindo-lhe considerável nível de solubilidade a sua proteína.",
+        "Propomos o uso do Farelo de Soja Integral Naturalle como a forma mais inteligente, prática e econômica na formulação de rações, por ser o produto que nos oferece a proteína e a energia de inigualável qualidade e custo, proporcionando os mais altos resultados zootécnicos econômicos."
+      ],
+      "composition": [
+        "Soja Integral Moída Desativada"
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [],
+      "guarantees": {
+        "title": "Níveis de garantia",
+        "rows": [
+          {
+            "parameter": "Umidade",
+            "condition": "Máximo",
+            "value": "120,00 gr/kg"
+          },
+          {
+            "parameter": "Proteína Bruta",
+            "condition": "Mínimo",
+            "value": "360,00 gr/Kg"
+          },
+          {
+            "parameter": "Extrato Etéreo",
+            "condition": "Mínimo",
+            "value": "200,00 gr/Kg"
+          },
+          {
+            "parameter": "Fibra Bruta",
+            "condition": "Máximo",
+            "value": "55,00 gr/Kg"
+          },
+          {
+            "parameter": "Matéria Mineral",
+            "condition": "Máximo",
+            "value": "50,00 gr/Kg"
+          },
+          {
+            "parameter": "Aflatoxina",
+            "condition": "Máximo",
+            "value": "20,00 ppb"
+          },
+          {
+            "parameter": "Solubilidade KOH 0,2%",
+            "condition": "Mínimo",
+            "value": "80,00%"
+          },
+          {
+            "parameter": "Atividade Ureátiva",
+            "condition": "Min",
+            "value": "0,02"
+          },
+          {
+            "parameter": "Atividade Ureátiva",
+            "condition": "Máx",
+            "value": "0,20"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "soja-grao-desativada",
+      "title": "Soja Grão Desativada",
+      "image": "assets/images/produtos/soja-grao-desativada.webp",
+      "categories": [
+        "animal"
+      ],
+      "description": [
+        "Produzido pelo processo exclusivo Naturalle que preserva de forma substancialmente diferenciada todos os aminoácidos, conferindo-lhe o mais elevado nível de solubilidade. Proporciona os melhores resultados zootécnicos e econômicos em função da melhor conversão alimentar (CA).",
+        "Esse produto destaca-se pela sua praticidade no modo de e sua melhor fluidez",
+        "nos sistemas automatizados e de moagem pós mistura nas fábricas de ração."
+      ],
+      "composition": [
+        "Grão de Soja tratado pelo calor."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [],
+      "guarantees": {
+        "title": "Níveis de garantia",
+        "rows": [
+          {
+            "parameter": "Umidade",
+            "condition": "Máximo",
+            "value": "100,00 gr/kg"
+          },
+          {
+            "parameter": "Proteína Bruta",
+            "condition": "Mínimo",
+            "value": "360,00 gr/Kg"
+          },
+          {
+            "parameter": "Extrato Etéreo",
+            "condition": "Mínimo",
+            "value": "200,00 gr/Kg"
+          },
+          {
+            "parameter": "Fibra Bruta",
+            "condition": "Máximo",
+            "value": "55,00 gr/Kg"
+          },
+          {
+            "parameter": "Matéria Mineral",
+            "condition": "Máximo",
+            "value": "50,00 gr/Kg"
+          },
+          {
+            "parameter": "Solubilidade KOH 0,2%",
+            "condition": "Mínimo",
+            "value": "80,00%"
+          },
+          {
+            "parameter": "Atividade Ureátiva",
+            "condition": "Min",
+            "value": "0,05%"
+          },
+          {
+            "parameter": "Atividade Ureátiva",
+            "condition": "Máx",
+            "value": "0,20%"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "produto-customizado",
+      "title": "Produto Customizado",
+      "image": "assets/images/produtos/produto-customizado.webp",
+      "categories": [
+        "humana"
+      ],
+      "description": [
+        "Produto desenvolvido de acordo com as necessidades específicas de cada cliente e aplicação. A formulação pode ser ajustada considerando características de composição, textura, granulometria, funcionalidade e processo produtivo, possibilitando soluções personalizadas para diferentes segmentos da indústria alimentícia. O desenvolvimento é realizado buscando atender aos requisitos técnicos e comerciais de cada projeto."
+      ],
+      "composition": [
+        "Ingredientes e matérias-primas definidos de acordo com a formulação, aplicação e especificações de cada projeto."
+      ],
+      "application": "",
+      "packing": "Sacos de polietileno com peso líquido de 25 kg.",
+      "storage": "Armazenar em local seco, limpo, ventilado e protegido da umidade, da luz solar direta e de odores fortes. Transportar em condições que preservem a integridade e a qualidade do produto.",
+      "validity": "180 dias a partir da data de fabricação, desde que respeitadas as condições recomendadas de armazenamento e transporte.",
+      "applications": [
+        {
+          "title": "Aplicações humanas",
+          "items": [
+            "Panificação",
+            "confeitaria",
+            "biscoitos e cookies",
+            "snacks",
+            "cereais",
+            "barras",
+            "produtos proteicos",
+            "Plant Based",
+            "produtos cárneos",
+            "misturas desidratadas e outras aplicações alimentícias desenvolvidas de acordo com a necessidade específica de cada projeto."
+          ]
+        }
+      ],
+      "guarantees": null
+    }
+  ]
+}
