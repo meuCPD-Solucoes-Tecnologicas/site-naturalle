@@ -86,7 +86,10 @@ def header(depth, active):
     </div>
   </div>
   <div class="container nav">
-    <a class="logo" href="{p}"><img src="{p}assets/images/logo-naturalle.png" alt="Naturalle"></a>
+    <div class="brand">
+      <a class="logo" href="{p}"><img src="{p}assets/images/logo-naturalle.png" alt="Naturalle"></a>
+      <img class="seal seal--nav" src="{p}assets/images/selo-gluten-free.png" alt="Gluten free Naturalle">
+    </div>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     <nav class="site-nav" id="site-nav" aria-label="Principal">
       {item("home", "", "Home")}
@@ -149,6 +152,7 @@ def footer(depth):
         <li><a href="{esc(COMPANY['linkedin'])}" target="_blank" rel="noopener">LinkedIn</a></li>
       </ul>
     </div>
+    <img class="seal seal--footer" src="{p}assets/images/selo-gluten-free.png" alt="Gluten free Naturalle">
   </div>
   <div class="container legal-line">
     <span>© 2026 Naturalle. CNPJ {esc(COMPANY['cnpj'])}.</span>
@@ -461,9 +465,14 @@ def product_page(product):
     </div>
     <div class="prose">
       <p class="breadcrumb"><a href="../../">Home</a> / <a href="../">Produtos</a> / {esc(product['title'])}</p>
-      <div class="chips">{chips(product['categories'])}</div>
-      <h1>{esc(product['title'])}</h1>
-      {paragraphs(product['description'])}
+      <div class="product__heading">
+        <div>
+          <div class="chips">{chips(product['categories'])}</div>
+          <h1>{esc(product['title'])}</h1>
+          {paragraphs(product['description'])}
+        </div>
+        <img class="seal seal--product" src="{asset(depth, 'assets/images/selo-gluten-free.png')}" alt="Gluten free Naturalle">
+      </div>
       <dl class="spec-list">{specs(product)}</dl>
       {applications(product)}
       {guarantees(product)}
