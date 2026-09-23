@@ -71,7 +71,12 @@ button, input, textarea { font: inherit; }
   min-height: 78px;
   gap: 24px;
 }
+.brand { display: flex; align-items: center; gap: 14px; }
 .logo img { height: 46px; width: auto; }
+.seal { display: block; width: 58px; height: auto; }
+.seal--nav { width: 62px; }
+.seal--product { width: 118px; flex: none; }
+.seal--footer { width: 118px; align-self: center; justify-self: end; }
 .site-nav {
   display: flex;
   align-items: center;
@@ -337,6 +342,8 @@ h3 { font-size: 28px; margin: 0 0 8px; }
   top: 110px;
 }
 .product__photo img { width: 100%; height: 460px; object-fit: cover; }
+.product__heading { display: flex; align-items: flex-start; gap: 22px; }
+.product__heading h1 { margin-top: 10px; }
 .prose p { color: #31443b; }
 .spec-list { display: grid; gap: 12px; margin: 22px 0; }
 .spec-list div {
@@ -389,8 +396,9 @@ textarea { min-height: 140px; resize: vertical; }
 }
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.4fr 0.8fr 0.8fr 1fr;
+  grid-template-columns: 1.3fr 0.8fr 0.8fr 0.9fr auto;
   gap: 28px;
+  align-items: start;
 }
 .site-footer a { color: #e5f2ea; text-decoration: none; }
 .site-footer a:hover { text-decoration: underline; }
@@ -451,6 +459,9 @@ textarea { min-height: 140px; resize: vertical; }
   .spec-list div { grid-template-columns: 1fr; gap: 4px; }
   .hero { padding-top: 32px; }
   h1 { font-size: 36px; }
+  .seal--nav { width: 48px; }
+  .product__heading { flex-direction: column; }
+  .seal--footer { justify-self: start; }
   .hero__visual { min-height: 300px; }
   .hero__photo { width: 88%; height: 210px; }
   .hero__photo--b { width: 64%; height: 160px; bottom: 0; }
